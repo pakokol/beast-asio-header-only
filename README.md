@@ -1,3 +1,6 @@
+# DISCLAIMER
+I use this fork jusy for testing if BoostBeast is compatible with ASIO header only library.
+
 <img width="880" height = "80" alt = "Boost.Beast Title"
     src="https://raw.githubusercontent.com/boostorg/beast/master/doc/images/readme2.png">
 
